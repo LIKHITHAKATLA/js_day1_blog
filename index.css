@@ -1,0 +1,16 @@
+body{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-size: 1.2em;
+    
+    /* justify-content: center; */
+}
+.center{
+    text-align: center;
+}
+
+.bold{
+    font-weight: bold;
+    font-size: 1.3em;
+}
